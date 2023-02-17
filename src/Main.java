@@ -14,15 +14,15 @@ public class Main {
 
         } else if  (weather <= 25) {
             if(weather <= 15) {
-                System.out.println("sinemaya gidebilirsin");
+                System.out.println("You can watch movie");
 
             }
             if(weather >=10 ){
-                System.out.println("pikniğe gidebilirsin");
+                System.out.println("You can go to a picnic");
             }
 
         }else {
-            System.out.println("yüzmeye gidebilirsin");
+            System.out.println("You can swim");
     }
     }
 }
